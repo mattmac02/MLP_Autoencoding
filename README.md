@@ -1,4 +1,4 @@
-# MLP Autoencoder
+# MNIST MLP Autoencoder
 
 This repository contains code for training an MLP-based autoencoder. Follow the instructions below to run the training:
 
